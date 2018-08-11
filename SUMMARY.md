@@ -16,3 +16,7 @@
     * [Clone](TEMPLATE-CLONE.md)
     * [List](TEMPLATE-LIST.md)
     * [Remove](TEMPLATE-REMOVE.md)
+  * [Spark](SPARK.md)
+  * [Input](INPUT.md)
+  * [Version](VERSION.md)
+  * [Help](HELP.md)
