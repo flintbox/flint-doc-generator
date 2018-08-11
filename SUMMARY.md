@@ -10,3 +10,9 @@
   * [Variable](VARIABLE.md)
   * [Predefined variable](PREDEFINED-VARIABLE.md)
 * [Environment variable](ENVIRONMENT-VARIABLE.md)
+* Command
+  * Template
+    * [Add](TEMPLATE-ADD.md)
+    * [Clone](TEMPLATE-CLONE.md)
+    * [List](TEMPLATE-LIST.md)
+    * [Remove](TEMPLATE-REMOVE.md)
