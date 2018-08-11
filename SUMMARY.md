@@ -9,3 +9,4 @@
   * [template.json](TEMPLATE-JSON.md)
   * [Variable](VARIABLE.md)
   * [Predefined variable](PREDEFINED-VARIABLE.md)
+* [Environment variable](ENVIRONMENT-VARIABLE.md)
