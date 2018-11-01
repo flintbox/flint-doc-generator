@@ -12,7 +12,8 @@ Template manifest file. YAML is also supported.
       "name": "Author"
     },
     {
-      "name": "Module Name",
+      "name": "MODULE_NAME",
+      "displayName": "Module Name (Module name for the package.)",
       "defaultValue": "CLI"
     }
   ],
@@ -34,7 +35,7 @@ Template description. This field is optional.
 
 `variables`
 
-Variable used in template. Each item has `name` and optional `defaultValue`. This field is optional.
+Variable used in template. Each item has `name` and optional `displayName`, `defaultValue`. When `displayName` exists, it is used instead of `name` on CLI. This field is optional.
 
 `prehooks`
 
